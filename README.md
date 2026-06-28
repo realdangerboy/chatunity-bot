@@ -191,7 +191,7 @@ ChatUnity VPS plans are designed to host the bot in a stable and continuous way.
 For information and availability contact [393773842461](https://wa.me/393773842461).
 
 
-## 📜 Licenza
+## 📜 Licenza .
 
 © ChatUnity-Bot. All rights reserved. Check the license for details.
 
